@@ -1,3 +1,7 @@
+// github: many indents
+// much work
+// cant save WOW!
+
 // Program.cs
 using System;
 using System.IO;

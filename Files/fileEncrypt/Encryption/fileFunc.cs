@@ -150,5 +150,5 @@ namespace fileEncrypt.Encryption;
         	ZeroMemory(gch.AddOfPinnedObject(), sKey.Length * 2)
         	gch.Free();
         }
-    }
+	}
 }
